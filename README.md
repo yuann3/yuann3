@@ -82,7 +82,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yuann3/yuann3/output/snake.svg" alt="Snake animation" />
 
 ###
 
