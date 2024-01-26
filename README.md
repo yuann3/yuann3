@@ -1,5 +1,5 @@
 # About Me:
-- Hi, I'm Yiyuan Li<br>- 👀 A student interested in computer science..<br>- 🌱 I am learning everything I come across, especially about computers. <br>- 🏫 Currently learning Rust and DSA through Python or C++.<br>- 📫 You can contact me at lyiyuane@gmail.com or by email in my profile.
+- Hi, I'm Yiyuan Li<br>- 👀 A student interested in computer science..<br>- 🌱 I am learning everything I come across, especially about computers. <br>- 🏫 Currently learning Rust and mastering DSA via Python or C++.<br>- 📫 You can contact me at lyiyuane@gmail.com or by email in my profile.
 
 
 ## 🌐 Socials:
