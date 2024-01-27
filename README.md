@@ -59,6 +59,17 @@
 </div>
 
 ###
+<h3 align="left">My Setup</h2>
+
+###
+
+<p align="left">Laptop: <br>- Macbook Pro 16-inch M2 Max chips 32GB RAM 1TB SSD<br> PC:<br>- CPU: i7-13700k<br>- RAM: 64GB DDr5<br>- GPU: Nvidia RTX4070 Ti<br>- OS: Linux Fedora 39</p>
+
+###
+
+<h3 align="left">Contact me through</h3>
+
+###
 
 <div align="left">
   <a href="https://www.instagram.com/yiyuanl3/" target="_blank">
