@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👀 A student interested in computer science..<br>- 🌱 I am learning everything I come across, especially about computers.<br>- 🏫 Currently learning Rust and mastering DSA via C++ or Python.<br>- 📫 You can contact me at lyiyuane@gmail.com or by email in my profile.</p>
+<p align="left">- A student interested in computer science..<br>- I am learning everything I come across, especially about computers.<br>- Currently learning Rust and mastering DSA via C++.<br>- You can contact me at lyiyuane@gmail.com or by email in my profile.</p>
 
 ###
 
