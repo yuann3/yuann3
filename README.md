@@ -6,10 +6,6 @@
 
 ###
 
-<h3 align="left">Language I use</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
