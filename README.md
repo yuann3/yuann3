@@ -1,40 +1,6 @@
-<h2 align="left">Hi 👋! My name is Yiyuan,</h2>
+#Blaaaaaaaa, YY's here
 
-###
-
-<p align="left">- A student interested in computer science..<br>- I am learning everything I come across, especially about computers.<br>- Currently learning Rust and mastering DSA via C++.<br>- You can contact me at lyiyuane@gmail.com or by email in my profile.</p>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
-</div>
+I code
 
 <h3 align="left">Contact me through</h3>
 
