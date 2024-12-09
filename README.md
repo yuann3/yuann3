@@ -1,6 +1,4 @@
-# Blaaaaaaaa, YY's here
-
-I code
+# YY is here, I code
 
 <h3 align="left">Contact me through</h3>
 
