@@ -1,7 +1,8 @@
-![CleanShot 2025-03-20 at 16 22 16@2x](https://github.com/user-attachments/assets/76b62cb3-7a35-42d9-84cd-687c9b5fe159)
-[View CV](https://eyuan.me/YiyuanLi_CV.pdf)
+<a href="https://eyuan.me/YiyuanLi_CV.pdf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/76b62cb3-7a35-42d9-84cd-687c9b5fe159" height="350" width="1400" alt="instagram logo"  />
+  </a>
 
-###
+----
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
