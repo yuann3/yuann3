@@ -1,5 +1,5 @@
 <a href="https://eyuan.me/YiyuanLi_CV.pdf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/76b62cb3-7a35-42d9-84cd-687c9b5fe159" height="300" width="1400" alt="instagram logo"  />
+    <img src="https://github.com/user-attachments/assets/f8312198-09b8-4d79-9bef-e2e5c112ac09"  alt="instagram logo"  />
   </a>
 
 ----
