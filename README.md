@@ -2,3 +2,4 @@
     <img src="https://github.com/user-attachments/assets/aeaa9837-2ede-4fe8-b795-4d199ca6cb4d"  alt="instagram logo"  />
   </a>
 
+i use vim btw, tmux btw, sometime emacs btw (wtf)
