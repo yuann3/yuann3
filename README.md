@@ -1,9 +1,9 @@
 <h1 class="title">Me?</h1>
     <p class="mb-4">
-    Hi, I'm Yiyuan Li. I'm into low-level programming, computer graphics, and anything that makes me more productive.
+    Hi, I'm Yiyuan Li—a software engineer passionate about low-level programming and anything that boosts productivity.
     </p>
     <p class="mb-4">
-    I like Rust and building things close to the metal. Got a wild idea? Hit me up at <a href="mailto:yy@yuan.me">yy@yuan.me</a>.
+    I love working with Rust and building things close to the metal. Got a wild idea? Reach out at <a href="mailto:yy@yuan.me">yy@yuan.me</a>.
     </p>
 	<div class="mb-4">
 	</div>
