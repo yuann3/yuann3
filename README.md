@@ -3,7 +3,7 @@
     Hi, I'm Yiyuan Li—a software engineer passionate about low-level programming and anything that boosts productivity.
     </p>
     <p class="mb-4">
-    I love working with Rust and building things close to the metal. Got a wild idea? Reach out at <a href="mailto:yy@yuan.me">yy@yuan.me</a>.
+    I love working with Rust and building things close to the metal. Got a wild idea? Reach out at <a href="mailto:yy@yuan.me">yy@eyuan.me</a>.
     </p>
 	<div class="mb-4">
 	</div>
