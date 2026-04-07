@@ -4,7 +4,7 @@ I'm **Yiyuan Li**. software engineer in singapore, currently at an AI startup do
 
 Rust is home. lately i've been doing questionable experiments with emacs that may or may not turn into real projects. 
 
-got a wild idea? reach out me at **yy@eyuan.me**.
+got a wild idea? reach out at **yy@eyuan.me**.
 
 oh yeah btw if you are in SG then i must argue with you that **McWings is better than McNuggets**, everything else is negotiable. 
 
