@@ -39,6 +39,6 @@ im also happy to meet up with you, just book me on: [My Calendar](https://calend
 
 ## hey:
 
-- 🎬 i watch an unreasonable amount of movies. not sorry about it.
-- 🎧 house music. if it has a four-on-the-floor kick i'm in.
+- 🎬 i watch an unreasonable amount of movies
+- 🎧 house music
 - 🦀 rust amaze amaze amaze
