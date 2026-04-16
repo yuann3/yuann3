@@ -1,6 +1,6 @@
 # yo. wassup?
 
-I'm **Yiyuan Li**. software engineer in singapore, currently at an AI startup doing edtech. i like things close to the metal
+I'm **Yiyuan Li**. software engineer based in singapore, currently at an AI startup doing edtech. i like things close to the metal
 
 Rust is home. lately i've been doing questionable experiments with emacs that may or may not turn into real projects. 
 
