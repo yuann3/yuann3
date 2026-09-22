@@ -36,9 +36,3 @@ im also happy to meet up with you, just book me on: [My Calendar](https://calend
 - [boss-job](https://yuann3.github.io/boss-job/): frontend design work.
 - [pew](https://github.com/yuann3/pew): CLI tool that dumps your codebase into a single file for LLMs.
 - [list](https://github.com/yuann3/lists): a bunch of linked list in rust
-
-## hey:
-
-- 🎬 i watch an unreasonable amount of movies
-- 🎧 house music
-- 🦀 rust amaze amaze amaze
