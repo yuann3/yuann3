@@ -12,9 +12,10 @@ im also happy to meet up with you, just book me on: [My Calendar](https://calend
 
 ## things i'm working on:
 
-- [emaclaude](https://github.com/yuann3/emaclaude): claude code orchestrator in emacs. three agents in split buffers — one plans, one codes, one reviews. no electron app needed.
 - [mra](https://github.com/yuann3/mra): multi-agent runtime for Rust.
 - [shaderview](https://github.com/yuann3/shaderview): a real time GLSL shader rendering engine inside your Emacs buffers
+- [yuanme](https://github.com/yuann3/yuanme): A fast, agent-native Rust static site generator for anybody: Markdown, Org, and build-time math.
+- [relic](): Evidence-backed terminal experience compiler
 
 ## built-from-scratch stuff:
 
@@ -24,13 +25,9 @@ im also happy to meet up with you, just book me on: [My Calendar](https://calend
 - [bitcoints](https://github.com/yuann3/bitcoints): simplified bitcoin library in Rust. elliptic curves, tx serialization, script eval.
 - [RayRust](https://github.com/yuann3/RayRust): raytracer in Rust.
 
-## systems / low-level:
+## random:
 
-- [Ylib](https://github.com/yuann3/Ylib): C standard library with more data structures.
-- [lrle](https://github.com/yuann3/lrle): GPU-accelerated 3D terrain visualizer. wgpu + compute shaders.
-
-## other:
-
+- [emaclaude](https://github.com/yuann3/emaclaude): claude code orchestrator in emacs. three agents in split buffers — one plans, one codes, one reviews. no electron app needed.
 - [linear-app.el](https://github.com/yuann3/linear-app.el): Linear.app integration for Emacs.
 - [Advent-of-Code](https://github.com/yuann3/Advent-of-Code): yearly puzzle grind, mostly in Rust.
 - [boss-job](https://yuann3.github.io/boss-job/): frontend design work.
