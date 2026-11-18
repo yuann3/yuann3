@@ -2,20 +2,25 @@
 
 I'm **Yiyuan Li**. software engineer based in singapore, im building solutions that make folks life easier. i like things close to the metal
 
-Rust is home. lately i've been doing questionable experiments with emacs that may or may not turn into real projects. 
+lately i've been doing questionable experiments with emacs, building my own game, and working on agent harnesses/infra
 
-got a wild idea? reach out at **yy@eyuan.me**.
+got a some idea? reach out at **yy@eyuan.me**.
 
 oh yeah btw if you are in SG then i must argue with you that **McWings is better than McNuggets**, everything else is negotiable. 
 
 im also happy to meet up with you, just book me on: [My Calendar](https://calendar.notion.so/meet/ethenyiyuan/pbgpc4pgk) 
 
-## things i'm working on:
+## recent update
 
+im starting building my own co-op tactic shooter game with some custom engine tooling **in C**: in-game editor, ballistic lab, recoil design system etc. here are some screenshots:
+<img width="1920" height="818" alt="image" src="https://github.com/user-attachments/assets/7248fe88-3131-4b40-b73e-a5c2ec51f5ae" />
+
+## other things i'm working on:
+
+- [yuanme](https://github.com/yuann3/yuanme): A fast, agent-native Rust static site generator for anybody: Markdown, Org, and build-time math. it powers [my own website](https://www.eyuan.me)!!
+- [relic](https://github.com/yuann3/relic): Evidence-backed terminal experience compiler
 - [mra](https://github.com/yuann3/mra): multi-agent runtime for Rust.
 - [shaderview](https://github.com/yuann3/shaderview): a real time GLSL shader rendering engine inside your Emacs buffers
-- [yuanme](https://github.com/yuann3/yuanme): A fast, agent-native Rust static site generator for anybody: Markdown, Org, and build-time math.
-- [relic](): Evidence-backed terminal experience compiler
 
 ## built-from-scratch stuff:
 
